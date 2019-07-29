@@ -55,6 +55,8 @@ Html converted to Markdown with [turndown](https://github.com/domchristie/turndo
 
 [Chrome Devtools Cheatsheet](http://anti-code.com/devtools-cheatsheet/)
 
+[Daily 2.0 - Source for Busy Developers - Chrome Web Store](https://chrome.google.com/webstore/detail/daily-20-source-for-busy/jlmpjdjjbgclbocgajdjefcidcncaied)
+
 ### cms
 
 [GitHub - ahadb/flat-file-cms: A list of strictly flat-file cms systems](https://github.com/ahadb/flat-file-cms)
@@ -263,6 +265,8 @@ Html converted to Markdown with [turndown](https://github.com/domchristie/turndo
 
 [GitHub - picnicss/picnic: A beautiful CSS library to kickstart your projects](https://github.com/picnicss/picnic)
 
+[Routing - Nuxt.js](https://nuxtjs.org/guide/routing)
+
 ### funny
 
 [Hacker Typer](http://hackertyper.net/)
@@ -389,6 +393,8 @@ Html converted to Markdown with [turndown](https://github.com/domchristie/turndo
 
 [BusRouter SG - Singapore Bus Routes Explorer](https://busrouter.sg/#/)
 
+[Firefox Send](https://send.firefox.com/)
+
 ### manifesto
 
 [Motherfucking Website](http://motherfuckingwebsite.com/)
@@ -458,6 +464,8 @@ Html converted to Markdown with [turndown](https://github.com/domchristie/turndo
 [What forces layout/reflow. The comprehensive list. · GitHub](https://gist.github.com/paulirish/5d52fb081b3570c81e3a)
 
 [html5-animation/xtras/keycode.js at master · lamberta/html5-animation · GitHub](https://github.com/lamberta/html5-animation/blob/master/xtras/keycode.js)
+
+[all](https://github.com/sasstools/sass-lint)
 
 ### plugins
 
@@ -532,6 +540,8 @@ Html converted to Markdown with [turndown](https://github.com/domchristie/turndo
 [enyo/dropzone: Dropzone is an easy to use drag'n'drop library. It supports image previews and shows nice progress bars.](https://github.com/enyo/dropzone)
 
 [fabricjs/fabric.js: Javascript Canvas Library, SVG-to-Canvas (& canvas-to-SVG) Parser](https://github.com/fabricjs/fabric.js)
+
+[tilt.js/ at master · gijsroge/tilt.js](https://github.com/gijsroge/tilt.js?files=1)
 
 ### plugins-interesting
 
@@ -612,6 +622,10 @@ Html converted to Markdown with [turndown](https://github.com/domchristie/turndo
 [Sass - Syntactically Awesome Stylesheets](http://sass-lang.com/tutorial.html)
 
 [Bourbon - A Lightweight Sass Tool Set](https://www.bourbon.io/)
+
+### security
+
+[Safe Browsing: malware and phishing – Google Transparency Report](https://transparencyreport.google.com/safe-browsing/overview)
 
 ### seo
 
@@ -824,6 +838,8 @@ Html converted to Markdown with [turndown](https://github.com/domchristie/turndo
 [Roots 101 | Roots](http://roots.io/roots-101/)
 
 [The Roots Sidebar | Roots](http://roots.io/the-roots-sidebar/)
+
+[wp query - When should you use WP\_Query vs query\_posts() vs get\_posts()? - WordPress Development Stack Exchange](https://wordpress.stackexchange.com/questions/1753/when-should-you-use-wp-query-vs-query-posts-vs-get-posts)
 
 ### youtube
 
