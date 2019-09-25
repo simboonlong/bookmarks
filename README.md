@@ -401,6 +401,8 @@ Html converted to Markdown with [turndown](https://github.com/domchristie/turndo
 
 [Death to Bullshit](http://deathtobullshit.com/)
 
+[The Website Obesity Crisis](https://idlewords.com/talks/website_obesity.htm)
+
 ### mathematics
 
 [Mathigon | The Mathematics Education Project](http://www.mathigon.org/)
@@ -627,6 +629,10 @@ Html converted to Markdown with [turndown](https://github.com/domchristie/turndo
 
 [Safe Browsing: malware and phishing – Google Transparency Report](https://transparencyreport.google.com/safe-browsing/overview)
 
+[MX Lookup Tool - Check your DNS MX Records online - MxToolbox](https://mxtoolbox.com/)
+
+[Sucuri SiteCheck - Free Website Security Check & Malware Scanner](https://sitecheck.sucuri.net/)
+
 ### seo
 
 [SEO advice: url canonicalization](https://www.mattcutts.com/blog/seo-advice-url-canonicalization/)
@@ -728,6 +734,14 @@ Html converted to Markdown with [turndown](https://github.com/domchristie/turndo
 [Web Intents | Twitter Developers](https://dev.twitter.com/web/intents)
 
 [Tweet Button | Twitter Developers](https://dev.twitter.com/web/tweet-button)
+
+### unit-testing
+
+[storybookjs/storybook: UI component dev & test: React, Vue, Angular, React Native, Ember, Web Components & more!](https://github.com/storybookjs/storybook)
+
+[facebook/jest: Delightful JavaScript Testing.](https://github.com/facebook/jest)
+
+[avajs/ava: 🚀 JavaScript test runner](https://github.com/avajs/ava)
 
 ### validation
 
