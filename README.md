@@ -105,12 +105,6 @@ Html converted to Markdown with [turndown](https://github.com/domchristie/turndo
 
 [NTH-TEST | nth-child and nth-of-type Tester](http://nth-test.com/)
 
-[CSS triangle generator](http://apps.eky.hk/css-triangle-generator/)
-
-[CSS Gradient Animator](http://www.gradient-animator.com/)
-
-[Blend - Generate simple and beautiful CSS3 gradients.](http://colinkeany.com/blend/)
-
 ### d3
 
 [d3Network](http://christophergandrud.github.io/d3Network/)
@@ -292,6 +286,8 @@ Html converted to Markdown with [turndown](https://github.com/domchristie/turndo
 [spencermountain/compromise: modest natural-language processing in javascript](https://github.com/spencermountain/compromise)
 
 [davidmerfield/Blot: Turns a folder into a blog](https://github.com/davidmerfield/Blot)
+
+[cmiscm/leonsans: Leon Sans is a geometric sans-serif typeface made with code in 2019 by Jongmin Kim.](https://github.com/cmiscm/leonsans)
 
 ### google
 
@@ -545,6 +541,8 @@ Html converted to Markdown with [turndown](https://github.com/domchristie/turndo
 
 [tilt.js/ at master · gijsroge/tilt.js](https://github.com/gijsroge/tilt.js?files=1)
 
+[shipshapecode/shepherd: Guide your users through a tour of your app](https://github.com/shipshapecode/shepherd)
+
 ### plugins-interesting
 
 [bbcrd/peaks.js · GitHub](https://github.com/bbcrd/peaks.js/tree/master)
@@ -639,6 +637,8 @@ Html converted to Markdown with [turndown](https://github.com/domchristie/turndo
 
 [Why use www? – www. is not deprecated](http://www.yes-www.org/why-use-www/)
 
+[Screaming Frog SEO Spider Tool & Crawler Software](https://www.screamingfrog.co.uk/seo-spider/)
+
 ### shopify
 
 [Shopify Cheat Sheet - Liquid variables](http://cheat.markdunkley.com/)
@@ -685,6 +685,8 @@ Html converted to Markdown with [turndown](https://github.com/domchristie/turndo
 
 [The State of JavaScript 2018](https://stateofjs.com/)
 
+[Screen Size Map](https://www.screensizemap.com/)
+
 ### ssl
 
 [Let's Encrypt - Free SSL/TLS Certificates](https://letsencrypt.org/)
@@ -720,6 +722,20 @@ Html converted to Markdown with [turndown](https://github.com/domchristie/turndo
 [Three.js - examples](http://stemkoski.github.io/Three.js/)
 
 [three.js - Javascript 3D library](https://threejs.org/)
+
+### tools
+
+[Aspect Ratio Calculator (ARC)](https://andrew.hedges.name/experiments/aspect_ratio/)
+
+[CSS triangle generator](http://apps.eky.hk/css-triangle-generator/)
+
+[CSS Gradient Animator](http://www.gradient-animator.com/)
+
+[Blend - Generate simple and beautiful CSS3 gradients.](http://colinkeany.com/blend/)
+
+[Bubbler - CSS Speech Bubble Generator - i like pixels <3](https://www.ilikepixels.co.uk/bubbler/)
+
+[Browserling - Live interactive cross-browser testing](https://www.browserling.com/)
 
 ### tricks
 
