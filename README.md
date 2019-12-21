@@ -691,6 +691,12 @@ Html converted to Markdown with [turndown](https://github.com/domchristie/turndo
 
 [Screen Size Map](https://www.screensizemap.com/)
 
+### ssh
+
+[Checking for existing SSH keys - GitHub Help](https://help.github.com/en/enterprise/2.17/user/authenticating-to-github/checking-for-existing-ssh-keys)
+
+[Generating a new SSH key and adding it to the ssh-agent - GitHub Help](https://help.github.com/en/enterprise/2.17/user/authenticating-to-github/generating-a-new-ssh-key-and-adding-it-to-the-ssh-agent)
+
 ### ssl
 
 [Let's Encrypt - Free SSL/TLS Certificates](https://letsencrypt.org/)
