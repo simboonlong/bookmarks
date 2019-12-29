@@ -117,6 +117,12 @@ Html converted to Markdown with [turndown](https://github.com/domchristie/turndo
 
 [Home · d3/d3 Wiki](https://github.com/d3/d3/wiki)
 
+### debugging
+
+[Bird Eats Bug :: Spend less time on bugs](https://birdeatsbug.com/)
+
+[klaussinani/signale: Highly configurable logging utility](https://github.com/klaussinani/signale)
+
 ### easings
 
 [Easings | jQuery UI API Documentation](http://api.jqueryui.com/easings/)
@@ -279,6 +285,12 @@ Html converted to Markdown with [turndown](https://github.com/domchristie/turndo
 
 [GitHub - vvo/gifify: 😻 Convert any video file to an optimized animated GIF.](https://github.com/vvo/gifify)
 
+### git
+
+[Oh Shit, Git!?!](https://ohshitgit.com/)
+
+[The Git Parable](http://tom.preston-werner.com/2009/05/19/the-git-parable.html)
+
 ### github-interesting-projects
 
 [GitHub - JoelBesada/activate-power-mode: Atom package - Activate POWER MODE to write your code in style.](https://github.com/JoelBesada/activate-power-mode)
@@ -318,8 +330,6 @@ Html converted to Markdown with [turndown](https://github.com/domchristie/turndo
 [Instagram Developer Documentation](https://www.instagram.com/developer/authentication/)
 
 [Instagram Developer Documentation](https://www.instagram.com/developer/endpoints/users/)
-
-[https://api.instagram.com/v1/users/self/?access\_token=1520842593.87917b8.40ec5eb670d14069b2c0e8892b5ef3e9](https://api.instagram.com/v1/users/self/?access_token=1520842593.87917b8.40ec5eb670d14069b2c0e8892b5ef3e9)
 
 [Everything You Need to Know About Instagram API Integration | CSS-Tricks](https://css-tricks.com/everything-need-know-instagram-api-integration/)
 
