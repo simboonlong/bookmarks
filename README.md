@@ -291,6 +291,14 @@ Html converted to Markdown with [turndown](https://github.com/domchristie/turndo
 
 [The Git Parable](http://tom.preston-werner.com/2009/05/19/the-git-parable.html)
 
+[Semantic Commit Messages](https://seesparkbox.com/foundry/semantic_commit_messages)
+
+[How to Rebase a Pull Request · edx/edx-platform Wiki](https://github.com/edx/edx-platform/wiki/How-to-Rebase-a-Pull-Request)
+
+[git - rebase in progress. Cannot commit. How to proceed or stop (abort)? - Stack Overflow](https://stackoverflow.com/questions/29902967/rebase-in-progress-cannot-commit-how-to-proceed-or-stop-abort)
+
+[How do I commit case-sensitive only filename changes in Git? - Stack Overflow](https://stackoverflow.com/questions/17683458/how-do-i-commit-case-sensitive-only-filename-changes-in-git)
+
 ### github-interesting-projects
 
 [GitHub - JoelBesada/activate-power-mode: Atom package - Activate POWER MODE to write your code in style.](https://github.com/JoelBesada/activate-power-mode)
@@ -626,6 +634,8 @@ Html converted to Markdown with [turndown](https://github.com/domchristie/turndo
 [Cross Browser Testing Tool. 1000+ Browsers, Mobile, Real IE.](https://www.browserstack.com/)
 
 [Firebase | App success made simple](https://firebase.google.com/)
+
+[stefanjudis/tiny-helpers: A collection of useful online web development tools](https://github.com/stefanjudis/tiny-helpers#contributing)
 
 ### sass
 
