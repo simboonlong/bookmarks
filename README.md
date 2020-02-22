@@ -311,6 +311,8 @@ Html converted to Markdown with [turndown](https://github.com/domchristie/turndo
 
 [cmiscm/leonsans: Leon Sans is a geometric sans-serif typeface made with code in 2019 by Jongmin Kim.](https://github.com/cmiscm/leonsans)
 
+[benawad/destiny: Prettier for File Structures](https://github.com/benawad/destiny)
+
 ### google
 
 [Rectangle Events - Google Maps JavaScript API — Google Developers](https://developers.google.com/maps/documentation/javascript/examples/rectangle-event)
@@ -739,6 +741,14 @@ Html converted to Markdown with [turndown](https://github.com/domchristie/turndo
 
 [Getting Started – Pug](https://pugjs.org/api/getting-started.html)
 
+### testing
+
+[storybookjs/storybook: UI component dev & test: React, Vue, Angular, React Native, Ember, Web Components & more!](https://github.com/storybookjs/storybook)
+
+[facebook/jest: Delightful JavaScript Testing.](https://github.com/facebook/jest)
+
+[avajs/ava: 🚀 JavaScript test runner](https://github.com/avajs/ava)
+
 ### text-editors
 
 [GitHub - adobe/brackets: An open source code editor for the web, written in JavaScript, HTML and CSS.](https://github.com/adobe/brackets)
@@ -767,6 +777,8 @@ Html converted to Markdown with [turndown](https://github.com/domchristie/turndo
 
 [Browserling - Live interactive cross-browser testing](https://www.browserling.com/)
 
+[Sass Color Generator](http://scg.ar-ch.org/)
+
 ### tricks
 
 [Random hex color code generator in JavaScript - Paul Irish](http://www.paulirish.com/2009/random-hex-color-code-snippets/)
@@ -781,14 +793,6 @@ Html converted to Markdown with [turndown](https://github.com/domchristie/turndo
 
 [Tweet Button | Twitter Developers](https://dev.twitter.com/web/tweet-button)
 
-### unit-testing
-
-[storybookjs/storybook: UI component dev & test: React, Vue, Angular, React Native, Ember, Web Components & more!](https://github.com/storybookjs/storybook)
-
-[facebook/jest: Delightful JavaScript Testing.](https://github.com/facebook/jest)
-
-[avajs/ava: 🚀 JavaScript test runner](https://github.com/avajs/ava)
-
 ### validation
 
 [Wixel/GUMP · GitHub](https://github.com/Wixel/GUMP)
@@ -796,6 +800,8 @@ Html converted to Markdown with [turndown](https://github.com/domchristie/turndo
 [GitHub - Respect/Validation: The most awesome validation engine ever created for PHP](https://github.com/Respect/Validation)
 
 [GitHub - chriso/validator.js: String validation and sanitization](https://github.com/chriso/validator.js/)
+
+[JSON Schema Validator - Newtonsoft](https://www.jsonschemavalidator.net/)
 
 ### web-audio
 
