@@ -107,6 +107,8 @@ Html converted to Markdown with [turndown](https://github.com/domchristie/turndo
 
 [Enhancing The Clickable Area Size](https://ishadeed.com/article/clickable-area/)
 
+[The Skinny on CSS Attribute Selectors | CSS-Tricks](https://css-tricks.com/attribute-selectors/)
+
 ### d3
 
 [d3Network](http://christophergandrud.github.io/d3Network/)
@@ -298,6 +300,10 @@ Html converted to Markdown with [turndown](https://github.com/domchristie/turndo
 [git - rebase in progress. Cannot commit. How to proceed or stop (abort)? - Stack Overflow](https://stackoverflow.com/questions/29902967/rebase-in-progress-cannot-commit-how-to-proceed-or-stop-abort)
 
 [How do I commit case-sensitive only filename changes in Git? - Stack Overflow](https://stackoverflow.com/questions/17683458/how-do-i-commit-case-sensitive-only-filename-changes-in-git)
+
+[What's the difference between HEAD^ and HEAD~ in Git? - Stack Overflow](https://stackoverflow.com/questions/2221658/whats-the-difference-between-head-and-head-in-git)
+
+[node.js - What's the difference between tilde(~) and caret(^) in package.json? - Stack Overflow](https://stackoverflow.com/questions/22343224/whats-the-difference-between-tilde-and-caret-in-package-json)
 
 ### github-interesting-projects
 
@@ -593,6 +599,16 @@ Html converted to Markdown with [turndown](https://github.com/domchristie/turndo
 
 [The Nature of Code](http://natureofcode.com/book/introduction/)
 
+### react
+
+[Using the State Hook – React](https://reactjs.org/docs/hooks-state.html)
+
+[Hooks API Reference – React](https://reactjs.org/docs/hooks-reference.html#functional-updates)
+
+[Using Context API in React (Hooks and Classes) – Tania Rascia](https://www.taniarascia.com/using-context-api-in-react/)
+
+[useHooks - Easy to understand React Hook recipes](https://usehooks.com/)
+
 ### resources
 
 [The Pattern Library](http://thepatternlibrary.com/)
@@ -793,6 +809,10 @@ Html converted to Markdown with [turndown](https://github.com/domchristie/turndo
 
 [Tweet Button | Twitter Developers](https://dev.twitter.com/web/tweet-button)
 
+### typescript
+
+[typescript-cheatsheets/react-typescript-cheatsheet: Cheatsheets for experienced React developers getting started with TypeScript](https://github.com/typescript-cheatsheets/react-typescript-cheatsheet#basic-prop-types-examples)
+
 ### validation
 
 [Wixel/GUMP · GitHub](https://github.com/Wixel/GUMP)
@@ -868,6 +888,8 @@ Html converted to Markdown with [turndown](https://github.com/domchristie/turndo
 [Universal Typography: Demo](http://universaltypography.com/demo/)
 
 [Web font hosting services - An Overview - by sprungmarker.de](http://sprungmarker.de/wp-content/uploads/webfont-services/)
+
+[Pixels vs. Relative Units in CSS: why it’s still a big deal - 24 Accessibility](https://www.24a11y.com/2019/pixels-vs-relative-units-in-css-why-its-still-a-big-deal/)
 
 ### web-RTC
 
