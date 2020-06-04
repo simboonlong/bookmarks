@@ -395,6 +395,12 @@ Html converted to Markdown with [turndown](https://github.com/domchristie/turndo
 
 [Daniel Eden, Designer](https://daneden.me/)
 
+### javascript
+
+[What the heck is the event loop anyway? | Philip Roberts | JSConf EU - YouTube](https://www.youtube.com/watch?v=8aGhZQkoFbQ)
+
+[Simplify your JavaScript – Use .map(), .reduce(), and .filter()](https://medium.com/poka-techblog/simplify-your-javascript-use-map-reduce-and-filter-bd02c593cc2d)
+
 ### jsperf
 
 [jsPerf: JavaScript performance playground](http://jsperf.com/)
@@ -494,6 +500,8 @@ Html converted to Markdown with [turndown](https://github.com/domchristie/turndo
 [all](https://github.com/sasstools/sass-lint)
 
 [The Myths of Color Contrast Accessibility](https://uxmovement.com/buttons/the-myths-of-color-contrast-accessibility/)
+
+[linux - What does "rc" mean in dot files - Stack Overflow](https://stackoverflow.com/questions/11030552/what-does-rc-mean-in-dot-files)
 
 ### plugins
 
@@ -609,6 +617,14 @@ Html converted to Markdown with [turndown](https://github.com/domchristie/turndo
 
 [useHooks - Easy to understand React Hook recipes](https://usehooks.com/)
 
+[React Memorized Hook — useCallback & useMemo ( React.memo )](https://medium.com/@kevinwkds/react-memorized-hook-usecallback-usememo-react-memo-d11da7ebb9cc)
+
+[Common mistakes with React Testing Library](https://kentcdodds.com/blog/common-mistakes-with-react-testing-library)
+
+[javascript - React: Do children always rerender when the parent component rerenders? - Stack Overflow](https://stackoverflow.com/questions/50053064/react-do-children-always-rerender-when-the-parent-component-rerenders)
+
+[react-typescript-cheatsheet/README.md at master · typescript-cheatsheets/react-typescript-cheatsheet](https://github.com/typescript-cheatsheets/react-typescript-cheatsheet/blob/master/README.md)
+
 ### resources
 
 [The Pattern Library](http://thepatternlibrary.com/)
@@ -654,6 +670,8 @@ Html converted to Markdown with [turndown](https://github.com/domchristie/turndo
 [Firebase | App success made simple](https://firebase.google.com/)
 
 [stefanjudis/tiny-helpers: A collection of useful online web development tools](https://github.com/stefanjudis/tiny-helpers#contributing)
+
+[The Best Landing Page Design Inspiration, Templates, Resources and More | Landingfolio](https://www.landingfolio.com/)
 
 ### sass
 
