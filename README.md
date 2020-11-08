@@ -1,4 +1,5 @@
 # Bookmarks
+
 List of useful links..
 
 Html converted to Markdown with [turndown](https://github.com/domchristie/turndown).
@@ -503,6 +504,8 @@ Html converted to Markdown with [turndown](https://github.com/domchristie/turndo
 
 [linux - What does "rc" mean in dot files - Stack Overflow](https://stackoverflow.com/questions/11030552/what-does-rc-mean-in-dot-files)
 
+[Scroll to the future — Martian Chronicles, Evil Martians’ team blog](https://evilmartians.com/chronicles/scroll-to-the-future-modern-javascript-css-scrolling-implementations)
+
 ### plugins
 
 [GitHub - tinymce/tinymce: TinyMCE is a JavaScript library for platform independent 'WYSIWYG' or rich text editing. It is released as open source under the LGPL.](https://github.com/tinymce/tinymce)
@@ -637,16 +640,6 @@ Html converted to Markdown with [turndown](https://github.com/domchristie/turndo
 
 [CSSDB: A Database Of CSS Libraries](http://cssdb.co/)
 
-[JSbooks - free javascript books](http://jsbooks.revolunet.com/)
-
-[yet another insignificant Programming Notes](http://www3.ntu.edu.sg/home/ehchua/programming/index.html)
-
-[dypsilon/frontend-dev-bookmarks · GitHub](https://github.com/dypsilon/frontend-dev-bookmarks)
-
-[Eloquent JavaScript](http://eloquentjavascript.net/)
-
-[GitHub - getify/Functional-Light-JS: A book about functional programming in JavaScript.](https://github.com/getify/Functional-Light-JS)
-
 [Javascript WYSIWYG editors · cheeaun/mooeditable Wiki · GitHub](https://github.com/cheeaun/mooeditable/wiki/Javascript-WYSIWYG-editors)
 
 [NavNav - 90+ Responsive Navigation Bar Menu Tutorials, Examples, and Demos (CSS, jQuery, JavaScript)](http://navnav.co/)
@@ -672,6 +665,8 @@ Html converted to Markdown with [turndown](https://github.com/domchristie/turndo
 [stefanjudis/tiny-helpers: A collection of useful online web development tools](https://github.com/stefanjudis/tiny-helpers#contributing)
 
 [The Best Landing Page Design Inspiration, Templates, Resources and More | Landingfolio](https://www.landingfolio.com/)
+
+[dypsilon/frontend-dev-bookmarks · GitHub](https://github.com/dypsilon/frontend-dev-bookmarks)
 
 ### sass
 
@@ -813,6 +808,8 @@ Html converted to Markdown with [turndown](https://github.com/domchristie/turndo
 
 [Sass Color Generator](http://scg.ar-ch.org/)
 
+[Base64](https://base64.guru/)
+
 ### tricks
 
 [Random hex color code generator in JavaScript - Paul Irish](http://www.paulirish.com/2009/random-hex-color-code-snippets/)
@@ -855,6 +852,12 @@ Html converted to Markdown with [turndown](https://github.com/domchristie/turndo
 
 [GitHub - kylestetz/AudioKeys: a QWERTY keyboard for web audio projects](https://github.com/kylestetz/AudioKeys)
 
+### web-history
+
+[Information mesh](http://infomesh.org/)
+
+[Evolution of the Scrollbar](https://scrollbars.matoseb.com/)
+
 ### web-hostings
 
 [The Best Web Hosting | Fast Professional Website Hosting Services - bluehost](http://www.bluehost.com/)
@@ -869,7 +872,7 @@ Html converted to Markdown with [turndown](https://github.com/domchristie/turndo
 
 [Singapore Web Hosting | Domain Registration - Vodien](http://www.vodien.com/)
 
-[Singapore Web Hosting - Simple Web Hosting from S$4.95 A Month | QOXY](http://www.qoxy.com/)
+[Singapore Web Hosting - Simple Web Hosting from S\$4.95 A Month | QOXY](http://www.qoxy.com/)
 
 [Namecheap.com • Cheap Domain Name Registration & Web Hosting](https://www.namecheap.com/)
 
@@ -909,6 +912,18 @@ Html converted to Markdown with [turndown](https://github.com/domchristie/turndo
 
 [Pixels vs. Relative Units in CSS: why it’s still a big deal - 24 Accessibility](https://www.24a11y.com/2019/pixels-vs-relative-units-in-css-why-its-still-a-big-deal/)
 
+### web-reads
+
+[JSbooks - free javascript books](http://jsbooks.revolunet.com/)
+
+[yet another insignificant Programming Notes](http://www3.ntu.edu.sg/home/ehchua/programming/index.html)
+
+[Eloquent JavaScript](http://eloquentjavascript.net/)
+
+[GitHub - getify/Functional-Light-JS: A book about functional programming in JavaScript.](https://github.com/getify/Functional-Light-JS)
+
+[Increment: Frontend](https://increment.com/)
+
 ### web-RTC
 
 [GitHub - websockets/ws: \`ws\`: The fastest cross platform RFC-6455 WebSocket implementation for Node.js.](https://github.com/websockets/ws)
@@ -945,7 +960,7 @@ Html converted to Markdown with [turndown](https://github.com/domchristie/turndo
 
 [The Roots Sidebar | Roots](http://roots.io/the-roots-sidebar/)
 
-[wp query - When should you use WP\_Query vs query\_posts() vs get\_posts()? - WordPress Development Stack Exchange](https://wordpress.stackexchange.com/questions/1753/when-should-you-use-wp-query-vs-query-posts-vs-get-posts)
+[wp query - When should you use WP_Query vs query_posts() vs get_posts()? - WordPress Development Stack Exchange](https://wordpress.stackexchange.com/questions/1753/when-should-you-use-wp-query-vs-query-posts-vs-get-posts)
 
 ### youtube
 
