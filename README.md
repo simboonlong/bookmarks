@@ -304,7 +304,9 @@ Html converted to Markdown with [turndown](https://github.com/domchristie/turndo
 
 [What's the difference between HEAD^ and HEAD~ in Git? - Stack Overflow](https://stackoverflow.com/questions/2221658/whats-the-difference-between-head-and-head-in-git)
 
-[node.js - What's the difference between tilde(~) and caret(^) in package.json? - Stack Overflow](https://stackoverflow.com/questions/22343224/whats-the-difference-between-tilde-and-caret-in-package-json)
+[Version Control (Git) · the missing semester of your cs education](https://missing.csail.mit.edu/2020/version-control/)
+
+[Learn Git Branching](https://learngitbranching.js.org/)
 
 ### github-interesting-projects
 
@@ -319,6 +321,8 @@ Html converted to Markdown with [turndown](https://github.com/domchristie/turndo
 [cmiscm/leonsans: Leon Sans is a geometric sans-serif typeface made with code in 2019 by Jongmin Kim.](https://github.com/cmiscm/leonsans)
 
 [benawad/destiny: Prettier for File Structures](https://github.com/benawad/destiny)
+
+[GitHub - MIDIBlocks/handsfree: Quickly integrate face, hand, and/or pose tracking to your frontend projects in a snap ✨👌](https://github.com/MIDIBlocks/handsfree)
 
 ### google
 
@@ -505,6 +509,12 @@ Html converted to Markdown with [turndown](https://github.com/domchristie/turndo
 [linux - What does "rc" mean in dot files - Stack Overflow](https://stackoverflow.com/questions/11030552/what-does-rc-mean-in-dot-files)
 
 [Scroll to the future — Martian Chronicles, Evil Martians’ team blog](https://evilmartians.com/chronicles/scroll-to-the-future-modern-javascript-css-scrolling-implementations)
+
+[node.js - What's the difference between tilde(~) and caret(^) in package.json? - Stack Overflow](https://stackoverflow.com/questions/22343224/whats-the-difference-between-tilde-and-caret-in-package-json)
+
+[Duplication in State Management: A Story of a Bug | by Llorenç Muntaner | Bits and Pieces](https://blog.bitsrc.io/duplication-in-state-management-a-story-of-a-bug-18c0d8206b59)
+
+[10 bad TypeScript habits to break this year](https://startup-cto.net/10-bad-typescript-habits-to-break-this-year/)
 
 ### plugins
 
@@ -810,6 +820,10 @@ Html converted to Markdown with [turndown](https://github.com/domchristie/turndo
 
 [Base64](https://base64.guru/)
 
+[JSON Web Tokens - jwt.io](https://jwt.io/)
+
+[Universal Resolver](https://dev.uniresolver.io/)
+
 ### tricks
 
 [Random hex color code generator in JavaScript - Paul Irish](http://www.paulirish.com/2009/random-hex-color-code-snippets/)
@@ -817,6 +831,8 @@ Html converted to Markdown with [turndown](https://github.com/domchristie/turndo
 [CSS drop-shadows without images – Nicolas Gallagher](http://nicolasgallagher.com/css-drop-shadows-without-images/)
 
 [Responsive Table](http://codepen.io/geoffyuen/pen/FCBEg)
+
+[Responsive Components: a Solution to the Container Queries Problem — Philip Walton](https://philipwalton.com/articles/responsive-components-a-solution-to-the-container-queries-problem/)
 
 ### twitter
 
@@ -837,6 +853,14 @@ Html converted to Markdown with [turndown](https://github.com/domchristie/turndo
 [GitHub - chriso/validator.js: String validation and sanitization](https://github.com/chriso/validator.js/)
 
 [JSON Schema Validator - Newtonsoft](https://www.jsonschemavalidator.net/)
+
+### w3c
+
+[World Wide Web Consortium Process Document](https://www.w3.org/2015/Process-20150901/#maturity-levels)
+
+[World Wide Web Consortium (W3C)](https://www.w3.org/)
+
+[CSS Working Group Editor Drafts](https://drafts.csswg.org/)
 
 ### web-audio
 
@@ -872,7 +896,7 @@ Html converted to Markdown with [turndown](https://github.com/domchristie/turndo
 
 [Singapore Web Hosting | Domain Registration - Vodien](http://www.vodien.com/)
 
-[Singapore Web Hosting - Simple Web Hosting from S\$4.95 A Month | QOXY](http://www.qoxy.com/)
+[Singapore Web Hosting - Simple Web Hosting from S$4.95 A Month | QOXY](http://www.qoxy.com/)
 
 [Namecheap.com • Cheap Domain Name Registration & Web Hosting](https://www.namecheap.com/)
 
@@ -967,3 +991,15 @@ Html converted to Markdown with [turndown](https://github.com/domchristie/turndo
 [YouTube Player API Reference for iframe Embeds | YouTube IFrame Player API | Google Developers](https://developers.google.com/youtube/iframe_api_reference)
 
 [YouTube Embedded Players and Player Parameters | YouTube IFrame Player API | Google Developers](https://developers.google.com/youtube/player_parameters?playerVersion=HTML5)
+
+### cli
+
+[explainshell.com - match command-line arguments to their help text](https://explainshell.com/)
+
+### serverless
+
+[Your CORS and API Gateway survival guide](https://www.serverless.com/blog/cors-api-gateway-survival-guide)
+
+### ethereum
+
+[ethereum-developer-tools-list/EcosystemResources.md at master · ConsenSys/ethereum-developer-tools-list · GitHub](https://github.com/ConsenSys/ethereum-developer-tools-list/blob/master/EcosystemResources.md)
