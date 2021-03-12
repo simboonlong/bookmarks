@@ -58,6 +58,10 @@ Html converted to Markdown with [turndown](https://github.com/domchristie/turndo
 
 [Daily 2.0 - Source for Busy Developers - Chrome Web Store](https://chrome.google.com/webstore/detail/daily-20-source-for-busy/jlmpjdjjbgclbocgajdjefcidcncaied)
 
+### cli
+
+[explainshell.com - match command-line arguments to their help text](https://explainshell.com/)
+
 ### cms
 
 [GitHub - ahadb/flat-file-cms: A list of strictly flat-file cms systems](https://github.com/ahadb/flat-file-cms)
@@ -149,6 +153,10 @@ Html converted to Markdown with [turndown](https://github.com/domchristie/turndo
 [HTML email: tables or divs? - Stack Overflow](http://stackoverflow.com/questions/2935472/html-email-tables-or-divs)
 
 [DKIM Core Tools](http://dkimcore.org/tools/)
+
+### ethereum
+
+[ethereum-developer-tools-list/EcosystemResources.md at master · ConsenSys/ethereum-developer-tools-list · GitHub](https://github.com/ConsenSys/ethereum-developer-tools-list/blob/master/EcosystemResources.md)
 
 ### experiments
 
@@ -704,6 +712,10 @@ Html converted to Markdown with [turndown](https://github.com/domchristie/turndo
 
 [Screaming Frog SEO Spider Tool & Crawler Software](https://www.screamingfrog.co.uk/seo-spider/)
 
+### serverless
+
+[Your CORS and API Gateway survival guide](https://www.serverless.com/blog/cors-api-gateway-survival-guide)
+
 ### shopify
 
 [Shopify Cheat Sheet - Liquid variables](http://cheat.markdunkley.com/)
@@ -991,15 +1003,3 @@ Html converted to Markdown with [turndown](https://github.com/domchristie/turndo
 [YouTube Player API Reference for iframe Embeds | YouTube IFrame Player API | Google Developers](https://developers.google.com/youtube/iframe_api_reference)
 
 [YouTube Embedded Players and Player Parameters | YouTube IFrame Player API | Google Developers](https://developers.google.com/youtube/player_parameters?playerVersion=HTML5)
-
-### cli
-
-[explainshell.com - match command-line arguments to their help text](https://explainshell.com/)
-
-### serverless
-
-[Your CORS and API Gateway survival guide](https://www.serverless.com/blog/cors-api-gateway-survival-guide)
-
-### ethereum
-
-[ethereum-developer-tools-list/EcosystemResources.md at master · ConsenSys/ethereum-developer-tools-list · GitHub](https://github.com/ConsenSys/ethereum-developer-tools-list/blob/master/EcosystemResources.md)
